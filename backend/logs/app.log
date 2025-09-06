@@ -1,0 +1,105 @@
+2025-09-05T20:47:11.462Z [INFO] DB connected
+2025-09-05T20:47:11.465Z [INFO] API available on http://localhost:4000
+2025-09-05T20:52:31.941Z [INFO] GET / 404 3.899 ms
+2025-09-05T20:52:42.024Z [INFO] DB connected
+2025-09-05T20:52:42.027Z [INFO] API available on http://localhost:4000
+2025-09-05T20:52:43.655Z [INFO] GET / 404 5.306 ms
+2025-09-05T20:59:50.429Z [INFO] DB connected
+2025-09-05T20:59:50.432Z [INFO] API available on http://localhost:4000
+2025-09-05T21:01:09.322Z [INFO] DB connected
+2025-09-05T21:01:09.324Z [INFO] API available on http://localhost:4000
+2025-09-05T21:01:14.534Z [INFO] GET / 404 4.415 ms
+2025-09-05T21:04:36.157Z [INFO] DB connected
+2025-09-05T21:04:36.160Z [INFO] API available on http://localhost:4000
+2025-09-05T21:08:11.860Z [INFO] DB connected
+2025-09-05T21:08:11.863Z [INFO] API available on http://localhost:4000
+2025-09-05T21:19:27.869Z [INFO] DB connected
+2025-09-05T21:19:27.872Z [INFO] API available on http://localhost:4000
+2025-09-05T21:19:30.055Z [INFO] GET / 404 3.893 ms
+2025-09-05T21:20:40.461Z [INFO] DB connected
+2025-09-05T21:20:40.463Z [INFO] API available on http://localhost:4000
+2025-09-05T21:21:01.809Z [INFO] GET / 404 3.519 ms
+2025-09-05T21:21:05.011Z [INFO] GET / 404 0.704 ms
+2025-09-06T07:58:17.993Z [INFO] DB connected
+2025-09-06T07:58:17.996Z [INFO] API available on http://localhost:4000
+2025-09-06T07:58:18.910Z [INFO] DB connected
+2025-09-06T07:58:18.913Z [INFO] API available on http://localhost:4000
+2025-09-06T08:02:38.625Z [INFO] DB connected
+2025-09-06T08:02:38.628Z [INFO] API available on http://localhost:4000
+2025-09-06T08:03:43.278Z [INFO] DB connected
+2025-09-06T08:03:43.280Z [INFO] API available on http://localhost:4000
+2025-09-06T08:09:12.989Z [INFO] GET / 404 6.140 ms
+2025-09-06T08:12:37.176Z [INFO] GET /api 404 0.934 ms
+2025-09-06T08:20:24.265Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:20:24.270Z [INFO] GET /api/movies?limit=20 500 179.740 ms
+2025-09-06T08:20:24.274Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:20:24.278Z [INFO] GET /api/movies?limit=20 500 4.620 ms
+2025-09-06T08:20:24.280Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:20:24.285Z [INFO] GET /api/movies?limit=20 500 4.790 ms
+2025-09-06T08:21:17.447Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:21:17.452Z [INFO] GET /api/movies?limit=20 500 170.936 ms
+2025-09-06T08:21:17.455Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:21:17.458Z [INFO] GET /api/movies?limit=20 500 3.641 ms
+2025-09-06T08:24:34.555Z [INFO] DB connected
+2025-09-06T08:24:34.557Z [INFO] API available on http://localhost:4000
+2025-09-06T08:24:50.029Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:24:50.036Z [INFO] GET /api/movies?limit=20 500 161.202 ms
+2025-09-06T08:24:50.040Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:24:50.043Z [INFO] GET /api/movies?limit=20 500 3.702 ms
+2025-09-06T08:25:01.713Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:25:01.716Z [INFO] POST /api/auth/register 500 127.894 ms
+2025-09-06T08:25:02.473Z [INFO] DB connected
+2025-09-06T08:25:02.476Z [INFO] API available on http://localhost:4000
+2025-09-06T08:27:08.122Z [INFO] DB connected
+2025-09-06T08:27:08.125Z [INFO] API available on http://localhost:4000
+2025-09-06T08:27:21.392Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:27:21.397Z [INFO] POST /api/auth/register 500 131.610 ms
+2025-09-06T08:27:34.814Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:27:34.817Z [INFO] POST /api/auth/register 500 212.745 ms
+2025-09-06T08:30:10.795Z [INFO] REGISTER: rasstalnoy@gmail.com
+2025-09-06T08:30:10.796Z [INFO] POST /api/auth/register 201 109.483 ms
+2025-09-06T08:30:19.281Z [INFO] LOGIN: rasstalnoy@gmail.com
+2025-09-06T08:30:19.282Z [INFO] POST /api/auth/login 200 71.307 ms
+2025-09-06T08:30:19.356Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:19.360Z [INFO] GET /api/movies?limit=20 500 7.130 ms
+2025-09-06T08:30:19.363Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:19.367Z [INFO] GET /api/movies?limit=20 500 4.547 ms
+2025-09-06T08:30:46.318Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:46.321Z [INFO] GET /api/movies?limit=20 500 160.491 ms
+2025-09-06T08:30:46.323Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:46.327Z [INFO] GET /api/movies?limit=20 500 4.396 ms
+2025-09-06T15:18:14.662Z [INFO] DB connected
+2025-09-06T15:18:14.664Z [INFO] API available on http://localhost:4000
+2025-09-06T15:18:15.792Z [INFO] DB connected
+2025-09-06T15:18:15.795Z [INFO] API available on http://localhost:4000
+2025-09-06T15:18:24.788Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T15:18:24.796Z [INFO] GET /api/movies?limit=20 500 14.446 ms
+2025-09-06T15:18:24.800Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T15:18:24.805Z [INFO] GET /api/movies?limit=20 500 6.520 ms
+2025-09-06T15:24:47.888Z [INFO] DB connected
+2025-09-06T15:24:47.891Z [INFO] API available on http://localhost:4000
+2025-09-06T15:24:59.758Z [ERROR] GET /api/movies?limit=20 -> немає дозволу для подання movie_stats
+2025-09-06T15:24:59.764Z [INFO] GET /api/movies?limit=20 500 72.922 ms
+2025-09-06T15:24:59.767Z [ERROR] GET /api/movies?limit=20 -> немає дозволу для подання movie_stats
+2025-09-06T15:24:59.771Z [INFO] GET /api/movies?limit=20 500 4.712 ms
+2025-09-06T15:28:27.147Z [INFO] DB connected
+2025-09-06T15:28:27.149Z [INFO] API available on http://localhost:4000
+2025-09-06T15:28:34.203Z [INFO] GET /api/movies?limit=20 200 12.794 ms
+2025-09-06T15:28:34.207Z [INFO] GET /api/movies?limit=20 304 2.193 ms
+2025-09-06T15:31:09.042Z [INFO] POST /api/movies/sync/550 404 1.429 ms
+2025-09-06T15:31:39.832Z [INFO] GET /api/movies?limit=20 304 62.606 ms
+2025-09-06T15:31:39.836Z [INFO] GET /api/movies?limit=20 304 1.779 ms
+2025-09-06T15:32:45.749Z [INFO] POST /api/movies/sync/550 404 0.639 ms
+2025-09-06T15:33:02.433Z [INFO] POST /api/movies/sync/550 404 0.329 ms
+2025-09-06T15:33:06.877Z [INFO] POST /api/movies/sync/550 404 0.270 ms
+2025-09-06T15:34:59.024Z [INFO] GET /api/movies?limit=20 304 49.762 ms
+2025-09-06T15:34:59.027Z [INFO] GET /api/movies?limit=20 304 1.699 ms
+2025-09-06T15:38:42.954Z [INFO] GET /api/movies?limit=20 200 161.629 ms
+2025-09-06T15:38:42.957Z [INFO] GET /api/movies?limit=20 304 1.672 ms
+2025-09-06T15:38:49.618Z [INFO] GET /api/movies/278 200 3.286 ms
+2025-09-06T15:38:49.629Z [INFO] GET /api/comments/278 200 4.412 ms
+2025-09-06T15:38:49.635Z [INFO] GET /api/movies/278 304 1.485 ms
+2025-09-06T15:38:49.639Z [INFO] GET /api/comments/278 304 2.295 ms
+2025-09-06T15:38:52.163Z [INFO] REACTION: user=1 movie=278 type=1
+2025-09-06T15:38:52.164Z [INFO] POST /api/likes 201 8.808 ms
+2025-09-06T15:38:52.171Z [INFO] GET /api/movies/278 200 1.284 ms

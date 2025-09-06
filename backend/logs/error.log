@@ -1,0 +1,18 @@
+2025-09-06T08:20:24.265Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:20:24.274Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:20:24.280Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:21:17.447Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:21:17.455Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:24:50.029Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:24:50.040Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:25:01.713Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:27:21.392Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:27:34.814Z [ERROR] POST /api/auth/register -> немає дозволу для таблиці users
+2025-09-06T08:30:19.356Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:19.363Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:46.318Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T08:30:46.323Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T15:18:24.788Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T15:18:24.800Z [ERROR] GET /api/movies?limit=20 -> відношення "movie_stats" не існує
+2025-09-06T15:24:59.758Z [ERROR] GET /api/movies?limit=20 -> немає дозволу для подання movie_stats
+2025-09-06T15:24:59.767Z [ERROR] GET /api/movies?limit=20 -> немає дозволу для подання movie_stats
